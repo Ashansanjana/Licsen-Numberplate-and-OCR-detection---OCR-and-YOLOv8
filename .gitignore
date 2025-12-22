@@ -1,0 +1,7 @@
+.venv
+__pycache__
+processed_videos
+yolov8n.pt
+output.json
+sample_video.mp4
+node_modules
